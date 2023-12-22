@@ -20,16 +20,13 @@ const CartPage = () => {
   //    const response = await fetch(`http://localhost:6001/carts/${item._id}`, {
   const handleIncrease = async (item) => {
     try {
-      const response = await fetch(
-        `https://mern-project-server-ten.vercel.app/carts/${item._id}`,
-        {
-          method: "PUT",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ quantity: item.quantity + 1 }),
-        }
-      );
+      const response = await fetch(`http://localhost:6001/carts/${item._id}`, {
+        method: "PUT",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ quantity: item.quantity + 1 }),
+      });
 
       if (response.ok) {
         const updatedCart = cartItems.map((cartItem) => {
