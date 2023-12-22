@@ -1,0 +1,290 @@
+[
+  {
+    "_id": "642c155b2c4774f05c36eeaa",
+    "name": "Whiskas",
+    "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "salad",
+    "price": 14.7
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb9",
+    "name": "KHUSUS INSTAN! Tas Ransel Astronot Lipat - Pet Carrier PC#63",
+    "recipe": "Ransel Kucing Peliharaan Tas Bahu Hewan Peliharaan Luar Ruangan Pembawa Kucing Antilembap untuk Anjing Kecil Kucing Kapsul Ruang Angkasa Tas Perjalanan Astronot Portabel",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "drinks",
+    "price": 14.7
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7c",
+    "name": "Whiskas 02",
+    "recipe": "Makanan Premium dan berkualitas",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee88",
+    "name": "5 in 1 Pet Grooming",
+    "recipe": " Bahan Stainless Steel Plastik ABS",
+    "image": "/images/recipes/alatKebersihan.png",
+    "category": "dessert",
+    "price": 12.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7a",
+    "name": "Whiskas Ikan Kembung 02",
+    "recipe": "Makanan premium dengan rasa ikan kembung yang lezat",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee74",
+    "name": "Whiskas Mackerel 03",
+    "recipe": "Makanan dengan dengan gizi yang sangat baik untuk kucing",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee712",
+    "name": "Kucinta Premium",
+    "recipe": "Kucinta dengan gizi yang baik untuk kucing",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7x",
+    "name": "Whiskas 003",
+    "recipe": "Makanan sehat untuk kucing",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8c",
+    "name": "Parfum",
+    "recipe": "Parfum segar, harum dan aman bagi kucing",
+    "image": "/images/recipes/alatKebersihan.png",
+    "category": "dessert",
+    "price": 12.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee94",
+    "name": "Boneka Ikan Ekor Goyang",
+    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+    "image": "/images/recipes/MainanKucing.png",
+    "category": "pizza",
+    "price": 75.0
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9e",
+    "name": "Boneka Bebek",
+    "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+    "image": "/images/recipes/MainanKucing.png",
+    "category": "pizza",
+    "price": 30.0
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea6",
+    "name": "Whiskas Tuna",
+    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "salad",
+    "price": "60k"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeaf",
+    "name": "Bio-Tic - Penghilang Bau Kotoran",
+    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+    "image": "/images/recipes/ObatBioTic.png",
+    "category": "soup",
+    "price": 12.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee89",
+    "name": "Bedak Natural Pet Ultracoat Dry Shampoo 250gr",
+    "recipe": "Deodorant, Sanitizing agent, Moisturizer, Skin Protectant, Floral scentEasy, waterless cleaning",
+    "image": "/images/recipes/alatKebersihan.png",
+    "category": "dessert",
+    "price": 13.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee96",
+    "name": "Papan Garuk Kucing",
+    "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+    "image": "/images/recipes/MainanKucing.png",
+    "category": "pizza",
+    "price": 9.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee81",
+    "name": "Tuna Niçoise",
+    "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "offered",
+    "price": 10.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea4",
+    "name": "Whiskas Ikan Kembung",
+    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "salad",
+    "price": "70K"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea5",
+    "name": "Whiskas Basah Ikan Kembung",
+    "recipe": "Makanan kucing basah dengan rasa ikan kembung.",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "salad",
+    "price": 9.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee83",
+    "name": "Chicken and Walnut Salad",
+    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "offered",
+    "price": 13.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7f",
+    "name": "whiskas basah",
+    "recipe": "Makanan kucing untuk yang basah",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea8",
+    "name": "Whiskas Mackerel",
+    "recipe": "Makanan kucing Basah",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "salad",
+    "price": "6K"
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeba",
+    "name": "Cat It Voyageur - Pet Carrier Anjing Kucing",
+    "recipe": "Catit Profile Voyageur Cat Carrier adalah solusi ideal untuk kebutuhan transportasi hewan peliharaan Anda.",
+    "image": "/images/recipes/tasRansel.png",
+    "category": "drinks",
+    "price": 14.7
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb0",
+    "name": "Penggemuk Badan",
+    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+    "image": "/images/recipes/ObatBioTic.png",
+    "category": "soup",
+    "price": 13.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea7",
+    "name": "Kucinta",
+    "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "salad",
+    "price": 9.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee99",
+    "name": "Garukan Kucing",
+    "recipe": "Garukan kucing berbentuk wortel",
+    "image": "/images/recipes/MainanKucing.png",
+    "category": "pizza",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb3",
+    "name": "Obat Tetes Kulit",
+    "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+    "image": "/images/recipes/ObatBioTic.png",
+    "category": "soup",
+    "price": 9.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb5",
+    "name": "Anti Septik - Salep Luka",
+    "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+    "image": "/images/recipes/ObatBioTic.png",
+    "category": "soup",
+    "price": 9.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7e",
+    "name": "Whiskas Kering",
+    "recipe": "Makanan kucing kering tinggi gizi",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee97",
+    "name": "Bola Bulu",
+    "recipe": "Pancingan bola bulu, dengan bulu yang halus cocok untuk mainan kucing, dan tentunya aman bagi kucing.",
+    "image": "/images/recipes/MainanKucing.png",
+    "category": "pizza",
+    "price": 14.7
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea0",
+    "name": "Mainan Kucing Interaktif",
+    "recipe": "Mainan ini membuat kucing kita interaktif dan lebih dekat dengan pemiliknya",
+    "image": "/images/recipes/MainanKucing.png",
+    "category": "pizza",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea9",
+    "name": "Ocean Fish",
+    "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "salad",
+    "price": "90K"
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee93",
+    "name": "Bebek Cit",
+    "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+    "image": "/images/recipes/MainanKucing.png",
+    "category": "pizza",
+    "price": 10.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee95",
+    "name": "Boneka Gigit",
+    "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+    "image": "/images/recipes/MainanKucing.png",
+    "category": "pizza",
+    "price": 13.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeac",
+    "name": "Ikan laut",
+    "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "salad",
+    "price": 60.0
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee82",
+    "name": "Escalope de Veau",
+    "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "offered",
+    "price": 12.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeab",
+    "name": "Ikan Salmon",
+    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+    "image": "/images/recipes/whiskasTuna.png",
+    "category": "salad",
+    "price": 6.0
+  }
+]
