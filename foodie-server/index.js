@@ -13,6 +13,7 @@ app.use(express.json());
 
 //samiirhamnillah03
 //rzHJiOcqxNRmKMHT
+/*mongodb+srv://samiirhamnillah03:<password>@demo-foodi-client.jy1xtka.mongodb.net/?retryWrites=true&w=majority*/
 
 mongoose
   .connect(
