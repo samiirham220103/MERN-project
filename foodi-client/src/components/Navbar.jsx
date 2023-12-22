@@ -44,10 +44,10 @@ const Navbar = () => {
               <a href="/menu">All</a>
             </li>
             <li>
-              <a>Salad</a>
+              <a>Makanan</a>
             </li>
             <li>
-              <a>Pizza</a>
+              <a>Minuman</a>
             </li>
           </ul>
         </details>
